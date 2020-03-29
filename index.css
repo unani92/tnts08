@@ -11,3 +11,9 @@ nav a {
 .dummy{
     height: 106px;
   }
+footer{
+  background-color: rgb(35, 31, 32);
+}
+footer p {
+  font-family: 'Baloo Thambi 2', cursive;
+}
